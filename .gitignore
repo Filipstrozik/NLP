@@ -3,3 +3,4 @@
 /data
 /doccano/*
 venv
+*.bin
