@@ -4,3 +4,9 @@
 /doccano/*
 venv
 *.bin
+
+# unnecesary HF model files
+optimizer.pt
+scheduler.pt
+rng_state.pth
+trainer_state.json
