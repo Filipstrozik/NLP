@@ -10,3 +10,4 @@ optimizer.pt
 scheduler.pt
 rng_state.pth
 trainer_state.json
+L2/data
