@@ -13,5 +13,6 @@ trainer_state.json
 L2/data
 
 *.pkl
+*.faiss
 .env
 *.index
